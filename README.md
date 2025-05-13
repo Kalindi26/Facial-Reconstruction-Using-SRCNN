@@ -17,6 +17,16 @@ This project implements a deep learning model for reconstructing high-quality fa
 - **Keras**
 - **NumPy**
 - **Pandas**
+## Installation
+1. Clone the repository from GitHub.
+2. Navigate to the project directory.
+3. Install dependencies using the requirements file.
+
+## Usage
+1. **Preprocess Images** – Clean and enhance low-quality facial images.
+2. **Train the Model** – Use deep learning techniques to improve reconstruction accuracy.
+3. **Apply Reconstruction** – Run the trained model on test images to restore facial details.
+
 
 
 
